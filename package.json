@@ -1,0 +1,6 @@
+{
+  "name": "feishu-deploy-probe",
+  "version": "0.0.1",
+  "private": true,
+  "output": "dist"
+}
